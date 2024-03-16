@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/code.js",
+  "bin": {
+    "clbdgs-cli": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -21,5 +24,6 @@
   },
   "dependencies": {
     "@clbdgs-cli/utils": "^1.0.3"
-  }
+  },
+  "gitHead": "9c11b745922d83ca6e330d1c15929458b34f6b6a"
 }
