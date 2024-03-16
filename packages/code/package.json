@@ -23,7 +23,7 @@
     "test": "node ./__tests__/code.test.js"
   },
   "dependencies": {
-    "@clbdgs-cli/utils": "^1.0.4"
+    "@clbdgs-cli/utils": "^1.0.0"
   },
   "gitHead": "ff28ab14841d9dc6d00bc3937d576b6473225528"
 }
