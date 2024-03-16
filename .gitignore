@@ -5,4 +5,4 @@ package-lock.json
 lerna-debug.log
 node_modules/
 packages/**/node_modules
-packages/**/package-lock.json
+# packages/**/package-lock.json
