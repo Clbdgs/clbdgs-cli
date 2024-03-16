@@ -2,3 +2,4 @@
 const utils = require('@clbdgs-cli/utils')
 
 console.log('hello clbdgs')
+console.log(utils())
