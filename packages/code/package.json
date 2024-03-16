@@ -1,0 +1,25 @@
+{
+  "name": "@clbdgs-cli/code",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "huangchujun <506433977@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/code.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com"
+  },
+  "scripts": {
+    "test": "node ./__tests__/code.test.js"
+  },
+  "dependencies": {
+    "@clbdgs-cli/utils": "^1.0.0"
+  }
+}
