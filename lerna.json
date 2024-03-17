@@ -3,9 +3,6 @@
   "useWorkspaces": true,
   "version": "1.0.10",
   "npmClient": "npm",
-  "publishConfig": {
-    "access": "public"
-  },
   "workspaces": [
     "packages/*"
   ]
