@@ -1,6 +1,6 @@
 {
   "name": "@clbdgs-cli/code",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "> TODO: description",
   "author": "huangchujun <506433977@qq.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "node ./__tests__/code.test.js"
   },
   "dependencies": {
-    "@clbdgs-cli/utils": "^1.0.1"
+    "@clbdgs-cli/utils": "^1.0.9"
   },
-  "gitHead": "927befd9af0998b049840c9687e54b7b8b489970"
+  "gitHead": "45bcb2e8580c8d1340bcd9985a1cdb086331b2ff"
 }
